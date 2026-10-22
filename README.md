@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerpbn-github" alt="sameerpbn-github" /></a> </p>
 
+- 👯 I’m looking to collaborate on **Devops Projects**
+
+- 💬 Ask me about **Cloud & Devops**
+
 - 📫 How to reach me **shaikhkhalilpbn39@gmail.com**
 
-- ⚡ Fun fact **techie**
+- ⚡ Fun fact **I automate things so I can google less 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
