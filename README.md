@@ -85,10 +85,6 @@ I enjoy applying my cloud and DevOps knowledge through practical projects.
 - **Containerization:** Docker image creation and Kubernetes deployment practice.
 - **Monitoring & Observability:** Prometheus and Grafana for infrastructure and application monitoring.
 
-> Add links to your actual project repositories here. Describe your architecture, implementation, challenges, and results.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
