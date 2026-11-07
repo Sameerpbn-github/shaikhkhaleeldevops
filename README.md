@@ -123,7 +123,7 @@ I enjoy applying my cloud and DevOps knowledge through practical projects.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=sameerpbn-github&color=blue)
 ---
 
 ### 💡 My Motto
