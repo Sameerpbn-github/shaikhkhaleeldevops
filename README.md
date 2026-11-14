@@ -98,23 +98,18 @@ I enjoy applying my cloud and DevOps knowledge through practical projects.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameerpbn-github&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerpbn-github&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sameerpbn-github&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sameerpbn-github&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="GitHub Profile Views"
-  />
-</p>
 
 ---
 
