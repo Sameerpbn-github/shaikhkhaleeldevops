@@ -95,20 +95,19 @@ I enjoy applying my cloud and DevOps knowledge through practical projects.
 - **Containerization:** Docker image creation and Kubernetes deployment practice.
 - **Monitoring & Observability:** Prometheus and Grafana for infrastructure and application monitoring.
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sameerpbn-github&show_icons=true&theme=default&hide_border=true&rank_icon=github"
-    alt="Shaikh Khaleel's GitHub Statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpbn-github&layout=compact&theme=default&hide_border=true"
-    alt="Most Used Programming Languages"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameerpbn-github&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerpbn-github&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameerpbn-github&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 
 <p align="center">
   <img
